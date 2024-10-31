@@ -11,7 +11,7 @@ namespace Program{
         }
 
         public static Zvire zvireKocka(){
-            Zvire kocka = new Zvire("meow withou the t", "bristká kočka", 3);
+            Zvire kocka = new Zvire("meow without the t", "bristká kočka", 3);
             return kocka;
         }
 
@@ -73,7 +73,8 @@ namespace Program{
         }
 
         public string vypis(){
-            return $"zvuk:{zvuk}\nrasa:{rasa}\nvěk:{vek}";
+            return $"zvuk:{zvuk}\nrasa:{rasa}\nvěk:{vek}\n----------------------------";
         }
+
     }
 }
