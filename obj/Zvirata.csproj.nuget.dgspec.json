@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JakubRajča\\Desktop\\C#\\Zvirata\\Zvirata.csproj": {}
+    "c:\\Users\\JakubRajča\\Desktop\\C#\\Zvirata\\Zvirata.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JakubRajča\\Desktop\\C#\\Zvirata\\Zvirata.csproj": {
+    "c:\\Users\\JakubRajča\\Desktop\\C#\\Zvirata\\Zvirata.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JakubRajča\\Desktop\\C#\\Zvirata\\Zvirata.csproj",
+        "projectUniqueName": "c:\\Users\\JakubRajča\\Desktop\\C#\\Zvirata\\Zvirata.csproj",
         "projectName": "Zvirata",
-        "projectPath": "C:\\Users\\JakubRajča\\Desktop\\C#\\Zvirata\\Zvirata.csproj",
+        "projectPath": "c:\\Users\\JakubRajča\\Desktop\\C#\\Zvirata\\Zvirata.csproj",
         "packagesPath": "C:\\Users\\JakubRajča\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JakubRajča\\Desktop\\C#\\Zvirata\\obj\\",
+        "outputPath": "c:\\Users\\JakubRajča\\Desktop\\C#\\Zvirata\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JakubRajča\\AppData\\Roaming\\NuGet\\NuGet.Config"
