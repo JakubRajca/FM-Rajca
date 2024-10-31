@@ -71,5 +71,9 @@ namespace Program{
         public string vekZvirete(){
             return vek.ToString();
         }
+
+        public string vypis(){
+            return $"zvuk:{zvuk}\nrasa:{rasa}\nvěk:{vek}";
+        }
     }
 }
